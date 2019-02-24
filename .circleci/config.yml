@@ -16,7 +16,7 @@ jobs:
             sudo apt-get -qq install git-ftp
             echo "Deploying project ..."
             echo $(git status)
-            git ftp push --insecure --user "${FTP_USER}" --passwd "${FTP_PWD}" ${FTP_LOCATION}
+            git ftp init --insecure --user "${FTP_USER}" --passwd "${FTP_PWD}" ${FTP_LOCATION}
  
 workflows:
   version: 2
