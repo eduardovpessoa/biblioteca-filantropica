@@ -4,6 +4,10 @@
 
 Este sistema WEB foi desenvolvido gratuitamente para realizar o cadastro de livros e o controle de empréstimos de exemplares para os alunos das nossas queridas escolas públicas e municipais.
 
+## Domínio
+
+Acesse <a href="bibliotecafilantropica.org" target="_blank">bibliotecafilantropica.org</a>! ;)
+
 ## Requisitos
 
 1) Instalação do PHP v.7.3.x
@@ -13,7 +17,8 @@ Este sistema WEB foi desenvolvido gratuitamente para realizar o cadastro de livr
 ## Agradecimentos
 
 - Daniela Ortolan (Docente e idealizadora do projeto!) - redacao.ortolan@gmail.com
-- Eduardo V. Pessoa (Desenvolvedor) - https://github.com/duduvp
+- Eduardo Viana Pessoa (Desenvolvedor) - https://github.com/duduvp
+- Euler Menezes Junior (Desenvolvedor) - https://github.com/euljr
 
 ### Ajude esse projeto e faça com que outras escolas também possam utilizar esse sistema gratuitamente. Pull requests e contribuições são aceitas! ;D
 <img src='https://st.depositphotos.com/1518767/5160/i/950/depositphotos_51608411-stock-photo-pupils-and-teacher-reading-in.jpg'/>
