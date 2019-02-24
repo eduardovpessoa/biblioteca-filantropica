@@ -6,7 +6,7 @@ Este sistema WEB foi desenvolvido gratuitamente para realizar o cadastro de livr
 
 ## Domínio
 
-Acesse <a href="bibliotecafilantropica.org" target="_blank">bibliotecafilantropica.org</a>! ;)
+Acesse <a href="https://bibliotecafilantropica.org" target="_blank">bibliotecafilantropica.org</a>! ;)
 
 ## Requisitos
 
